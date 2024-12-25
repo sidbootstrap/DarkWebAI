@@ -41,12 +41,20 @@ If you want to train the model with a new dataset:
 $ python train_model.py
 ```
 Ensure `data/data.csv` is populated with appropriate `content` and `label` fields.
+
+<img src="assets/accuracy.png" alt="Overview of DarkWebAI" width="600"/>
+
 ### Crawling and Classification
 Run the `main.py` file to crawl `.onion` links specified in `links.txt` and classify their content:
 ```bash
 $ python main.py
 ```
 Results will be saved in `results.csv`.
+
+<img src="assets/result_saved.png" alt="Overview of DarkWebAI" width="1000"/>
+
+<img src="assets/result.png" alt="Overview of DarkWebAI" width="1000"/>
+
 
 ---
 
