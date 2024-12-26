@@ -53,7 +53,7 @@ Results will be saved in `results.csv`.
 
 <img src="assets/result_saved.png" alt="Overview of DarkWebAI" width="1000"/>
 
-<img src="assets/result.png" alt="Overview of DarkWebAI" width="1000" height="110"/>
+<img src="assets/result.png" alt="Overview of DarkWebAI" width="1000"/>
 
 
 ---
